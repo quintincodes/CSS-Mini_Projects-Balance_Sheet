@@ -8,20 +8,20 @@ A simple project to practice using pseudo-selectors in CSS. This project is a si
 
 **CSS**
 
--   Psuedo-selectors
--   Attribute selectors
--   Attribute value selectors
--   Child selectors
--   sr-only class
--   id selectors
--   class selectors
+- Psuedo-selectors
+- Attribute selectors
+- Attribute value selectors
+- Child selectors
+- sr-only class
+- id selectors
+- class selectors
 
 ## Live Demo
 
-[Balance Sheet](https://quintin-dev.github.io/CSS-Mini_Projects-Balance_Sheet/)
+[Balance Sheet](https://quintincodes.github.io/CSS-Mini_Projects-Balance_Sheet/)
 
 ## Disclaimer
 
--   This project will not be updated or maintained. It is a simple project to practice using pseudo-selectors in CSS.
+- This project will not be updated or maintained. It is a simple project to practice using pseudo-selectors in CSS.
 
 Feel free to star or fork this project and style it as you wish.
